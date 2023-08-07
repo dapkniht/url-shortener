@@ -1,0 +1,6 @@
+{
+  original_url
+  created_at
+  click_count
+  short_code
+}
